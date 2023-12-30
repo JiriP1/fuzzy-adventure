@@ -52,8 +52,9 @@ body {
     padding: 0 1rem;
 }
 
-.container h3 {
+.container h1 {
     color: var(--Dark-blue);
+    font-size: 1.4rem;
 }
 
 .container p {
